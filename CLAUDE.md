@@ -11,13 +11,6 @@ Claude Code 사용법을 익히기 위한 학습용 저장소입니다. 애플�
 - `README.md` — 저장소 소개(한국어).
 - `docs/` — Claude Code 기능을 정리한 한국어 Markdown 문서. 예: `docs/claude-code-language.md`(응답 언어를 `language` 설정으로 바꾸는 방법).
 
-## 트리거 키워드
-
-사용자가 다음 중 하나를 말하면 `.claude/commands/ship.md`의 절차대로 git add → commit → push를 한 번에 실행합니다. 키워드 뒤에 붙은 문장이 있으면 커밋 메시지로 씁니다.
-
-- `/ship` (슬래시 커맨드)
-- `커밋푸시`, `ship`
-
 ## 문서 작성 관례
 
 `docs/`의 기존 문서를 따릅니다.
